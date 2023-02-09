@@ -1,0 +1,58 @@
+.formContainer {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.distContainer {
+  margin-top: 20px;
+}
+
+.inputContainer {
+  margin-bottom: 5px;
+  padding-bottom: 20px;
+}
+
+textarea:focus, input:focus {
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
+
+.inputContainer label {
+  display: flex;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.inputContainer input{
+  border: 2px solid #0000FF;
+  border-radius: 10px;
+  font-size: 14px;
+  width: 100%;
+  padding: 10px;
+}  
+
+.btnContainer input {
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  border: 1px solid #0000FF;
+	background-color: #0000FF;
+  color: #fff;
+  border-radius: 20px;
+  text-transform: uppercase;
+  margin-left: 180px;
+}
+
+form {
+  padding: 10px;
+}
+
+.messageContainer {
+  width: 500px;
+  margin-left: 20px;
+}

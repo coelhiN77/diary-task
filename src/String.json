@@ -1,0 +1,11 @@
+{
+  "header": "Diary List",
+  "_header.comment": "This string is for header",
+  "pivots": {
+    "taskTab": "Task List",
+    "taskFormTab": "Task Form",
+    "completedTaskTab": "Completed"
+  },
+  "deleteConfirm": "Are you sure, you want to delete the task ?",
+  "addTaskBtn": "Add Task"
+}
